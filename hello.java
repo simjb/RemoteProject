@@ -1,5 +1,4 @@
 // For command line git tutorial
-<<<<<<< HEAD
 // Local modification
 // GitHub modification
 
