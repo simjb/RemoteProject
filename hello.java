@@ -1,3 +1,6 @@
+// For command line git tutorial
+// Local modification
+
 hello world
 tell your world
 test
